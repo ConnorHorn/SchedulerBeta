@@ -1,8 +1,16 @@
 <script>
-import * as data from './artists.json';
-let evalBase = "data.Artists.Illenium.test1"
-console.log(data);
+
+import Card from "./Card.svelte";
+
+let artist = "Illenium"
+
 </script>
 
 
-{eval(evalBase)}
+<div class="w-1/3 h-4/5 fixed ml-40 mt-8 z-10">
+<Card {artist} vote = {"negative"} />
+</div>
+
+
+
+
