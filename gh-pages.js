@@ -4,7 +4,7 @@ ghpages.publish(
     'public',
     {
         branch: 'gh-pages',
-        repo: 'https://github.com/ConnorHorn/Svelte-FRC-WebAPP-Test.git',
+        repo: 'https://https://github.com/ConnorHorn/SchedulerBeta.git',
         user: {
             name: 'ConnorHorn',
             email: 'connorhornet@gmail.com',
