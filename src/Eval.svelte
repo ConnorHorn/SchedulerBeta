@@ -2,7 +2,7 @@
     import { fade, fly } from 'svelte/transition';
 import Card from "./Card.svelte";
     import * as data from './data.json';
-    import {rightFly, leftFly, festival, dataMap} from "./stores";
+    import {rightFly, leftFly, festival, dataMap, schedule, scheduleTimes, page} from "./stores";
 
 let artist
 let artist2
@@ -11,6 +11,9 @@ let leftOut = -800;
 let rightOut = 800;
 let scheduleArray;
 let dataArray = JSON.parse(JSON.stringify(data));
+let schedMapValue;
+
+
 $: {
     updateCards(artist, artist2);
     updateFestival($festival)
@@ -62,7 +65,6 @@ function handleResult(event) {
         else{
             dataMap.set(artist2+"---"+artist, 2);
         }
-        console.log(dataMap);
     }
     if(event.detail.text === "right"){
         dataArray["Artists"][artist2]["BetterThan"] = dataArray["Artists"][artist2]["BetterThan"].concat(artist, dataArray["Artists"][artist]["BetterThan"] );
@@ -77,10 +79,8 @@ function handleResult(event) {
 
     for(let i=0; i<scheduleArray.length; i++){
         let rowDone = false;
-        console.log("lol2",dataArray["Artists"]["Illenium"]["BetterThan"]);
 
         for (let j = 1; j < scheduleArray[i].length; j++) {
-            console.log(scheduleArray[i][j]);
             let compare1 = dataArray["Artists"][scheduleArray[i][j]]["BetterThan"].concat(scheduleArray[i][j], scheduleArray[i][0]);
             let containsAll = scheduleArray[i].every(element => {
                 return compare1.includes(element);
@@ -93,25 +93,26 @@ function handleResult(event) {
                 }
             }
             if(containsAll){
+                console.log(scheduleArray[i][j])
                 rowDone = true;
-                console.log("lol");
-                console.log("compare1: " + compare1);
+                if(!$scheduleTimes.includes(scheduleArray[i][0])) {
+                    $schedule = [...$schedule, scheduleArray[i][j]]
+                    $scheduleTimes = [...$scheduleTimes, scheduleArray[i][0]]
+                }
+                console.log($scheduleTimes)
                 break;
             }
         }
 
         if(!rowDone) {
             if(scheduleArray[i].length>5) {
-                console.log("HUUUH");
                 for (let j = scheduleArray[i].length - 1; j > 1; j = j - 4) {
                     let k = j - 3;
                     let check1 = scheduleArray[i][j];
                     let check2 = scheduleArray[i][k];
-                    console.log(check1, check2);
                     if (!(dataArray["Artists"][check1]["BetterThan"].includes(check2) || dataArray["Artists"][check2]["BetterThan"].includes(check1))) {
                         artist = check1;
                         artist2 = check2;
-                        console.log(artist, artist2);
                         return;
                     }
                 }
@@ -121,12 +122,9 @@ function handleResult(event) {
                 let k = j - 1;
                 let check1 = scheduleArray[i][j];
                 let check2 = scheduleArray[i][k];
-                console.log(check1, check2);
-                console.log("12",check1, check2);
                 if (!(dataArray["Artists"][check1]["BetterThan"].includes(check2) || dataArray["Artists"][check2]["BetterThan"].includes(check1))) {
                     artist = check1;
                     artist2 = check2;
-                    console.log(artist, artist2);
                     return;
                 }
             }
@@ -135,14 +133,11 @@ function handleResult(event) {
             let comparisonArray = JSON.parse(JSON.stringify(scheduleArray[i]));
             comparisonArray.shift();
              comparisonArray.sort(compareBetterThan);
-            console.log("comparisonArray: " + comparisonArray);
             for(let y=0; y<comparisonArray.length-1; y++){
                 for(let z=y+1; z<comparisonArray.length; z++){
-                    console.log("yz",comparisonArray[y], comparisonArray[z]);
                     if (!(dataArray["Artists"][comparisonArray[y]]["BetterThan"].includes(comparisonArray[z]) || dataArray["Artists"][comparisonArray[z]]["BetterThan"].includes(comparisonArray[y]))) {
                         artist = comparisonArray[y];
                         artist2 = comparisonArray[z];
-                        console.log(artist, artist2);
                         return;
                     }
                 }
@@ -156,25 +151,22 @@ function handleResult(event) {
 
 
 
-            console.log("continued to 1s");
 
 
             for (let j = 1; j < scheduleArray[i].length; j++) {
                 for (let k = scheduleArray[i].length - 1; k > j; k--) {
                     let check1 = scheduleArray[i][j];
                     let check2 = scheduleArray[i][k];
-                    console.log(check1, check2);
                     if (!(dataArray["Artists"][check1]["BetterThan"].includes(check2) || dataArray["Artists"][check2]["BetterThan"].includes(check1))) {
                         artist = check1;
                         artist2 = check2;
-                        console.log(artist, artist2);
                         return;
                     }
                 }
             }
         }
     }
-    console.log("reached end somehow")
+    $page = "results";
 }
 
 </script>
