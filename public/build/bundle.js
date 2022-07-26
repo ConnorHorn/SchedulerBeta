@@ -969,7 +969,7 @@ var app = (function () {
         };
     }
 
-    var Artists={Illenium:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6b5fbf615ada187ce5e425c8",Name:"Illenium",Genres:["Melodic Dubstep","Sad Boy","Pop","Pop Dance"],BetterThan:[]},Galantis:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2ca90cb37bf1557d385b9d48",Name:"Galantis",Genres:["Dance Pop","EDM","Electro House","Pop"],BetterThan:[]},TwoFriends:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2ebfa3de9d4f27eaa0dde614",Name:"Two Friends",Genres:["Big Booties","EDM","Pop Dance","Tropical House"],BetterThan:[]},PorterRobinson:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6ccb967cecc6f1da90fe355e",Name:"Porter Robinson",Genres:["Complextro","EDM","Future Bass","Melodic Dubstep"],BetterThan:[]},Diplo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebee376ee0e88042b34dee6e62",Name:"Diplo",Genres:["EDM","Electro House","Moombahton","Ninja"],BetterThan:[]},SaidTheSky:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebcd9e2b8f901285164a7fde6c",Name:"Said The Sky",Genres:["EDM","Electro Pop","Future Bass","Melodic Dubstep"],BetterThan:[]},Gryffin:{ImageURL:"https://apeconcerts.com/wp-content/uploads/2018/10/gryffin_18_1024-1024x576.jpg",Name:"Gryffin",Genres:["Dance Pop","EDM","Pop","Pop Dance"],BetterThan:[]},Mime:{ImageURL:"https://i.scdn.co/image/3294d45132b491b193fb3e7423d1c81af217cd08",Name:"Mime",Genres:["Slap House"],BetterThan:[]},BrunoMartini:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb826de4d67a791e8f5e058139",Name:"Bruno Martini",Genres:["EDM","Brazilian EDM","Pop Nacional"],BetterThan:[]},SamFeldt:{ImageURL:"https://yt3.ggpht.com/ytc/AKedOLS-_viGnqoTz84l9y9Zrp4juHqwIHeDix0UGlop2Q=s900-c-k-c0x00ffffff-no-rj",Name:"Sam Feldt",Genres:["Dance Pop","EDM","Electro House","Pop Dance"],BetterThan:[]},Joyryde:{ImageURL:"https://i1.sndcdn.com/avatars-000145463923-qyfu09-t500x500.jpg",Name:"JOYRYDE",Genres:["Bass House","EDM","Electro House","Electronic Trap"],BetterThan:[]},LoudLuxury:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba4686c91d1b14b400725f95e",Name:"Loud Luxury",Genres:["Dance Pop","EDM","Electro House","Pop"],BetterThan:[]},Fisher:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb26b6458775a693999d024473",Name:"FISHER",Genres:["Australian House"],BetterThan:[]},SevenLions:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb3a120b5c7fefeed869234a71",Name:"Seven Lions",Genres:["Dubstep","EDM","Electro House","Future Bass"],BetterThan:[]},Alesso:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1605eca2d6cc32b05a2d56b1",Name:"Alesso",Genres:["Dance Pop","EDM","Electro House","Pop"],BetterThan:[]},Harber:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb59e4071d1ecb0459b74c2b1a",Name:"HARBER",Genres:["Belgian EDM","Dutch House"],BetterThan:[]},KillScript:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebf213fe23046692d2a725af33",Name:"KILL SCRIPT",Genres:["Electro House","Dark Clubbing","Vapor Twitch","Experimental Bass"],BetterThan:[]},DrFresch:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb5eb95846d69c3a6858ce3839",Name:"Dr. Fresch",Genres:["Bass House","EDM","Electro House","Electronic Trap"],BetterThan:[]},Audien:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb275d687af88bb66830756ff6",Name:"Audien",Genres:["EDM","Electro House","Pop Dance","Pop EDM"],BetterThan:[]},Zomboy:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb82bf025983a4856645a866b4",Name:"Zomboy",Genres:["Brostep","Dubstep","EDM","Electro House"],BetterThan:[]},SteveAoki:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb7c4240b7951da248f3404e42",Name:"Steve Aoki",Genres:["Dance Pop","EDM","Electro House"],BetterThan:[]},Tiesto:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8cb651b2e77c6d30b1de15e4",Name:"Tiesto",Genres:["Big Room","Brostep","Dance Pop","Dutch EDM"],BetterThan:[]},Rezz:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd32795654cee9204e8bdcfde",Name:"Rezz",Genres:["Canadian Electronic","EDM","Electra","Electro House"],BetterThan:[]},Kaskade:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebc96f32c30b4c236b5b9c40fa",Name:"Kaskade",Genres:["EDM","Electronic House","House","Pop Dance"],BetterThan:[]},NightTales:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb982bdd0408ef501f4bdeaefc",Name:"Night Tales",Genres:["Australian Dance"],BetterThan:[]},OverEasy:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb14aba73aed46ed4e0794eff7",Name:"Over Easy",Genres:["Pop EDM","Melodic Dubstep","Pop Dance","Progressive Electro House"],BetterThan:[]},Jvna:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebf5b12b45d7b36943ccfbc68e",Name:"JVNA",Genres:["Electra","Future Bass","Melodic Dubstep","Pop EDM"],BetterThan:[]},AndrewRayel:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb13bdeaa329767db2d03db7fb",Name:"Andrew Rayel",Genres:["EDM","Moldovan Pop","Pop Dance","Progressive House"],BetterThan:[]},AdventureClub:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb40baef401cb7f5c6511771bc",Name:"Adventure Club",Genres:["Brostep","Canadian Electronic","EDM","Electro House"],BetterThan:[]},AlanWalker:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb29da45fd16f4b249be105618",Name:"Alan Walker",Genres:["Alan Walker","That Roblox Song"],BetterThan:[]},Kshmr:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd1db941d6e307ab229651fae",Name:"KSHMR",Genres:["Big Room","EDM","Electro House","Indian EDM"],BetterThan:[]},Heyz:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebdf1461245bb0050c0a5063f5",Name:"Heyz",Genres:["Expermental Bass","Dubstep","Gaming Dubstep","Electro House"],BetterThan:[]},Sippy:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2619a05ec4de2457a244dd52",Name:"SIPPY",Genres:["Dubstep","Gaming Dubstep","Electro House","Brostep"],BetterThan:[]},Lick:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb87b0e3c885f5948e583ea628",Name:"LICK",Genres:["Dark Clubbing","Experimental Bass"],BetterThan:[]},Blanke:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb73d2a8b4517d99178d76f75d",Name:"Blanke",Genres:["Dubstep","EDM","Electro House","Future Bass"],BetterThan:[]},Yultron:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1a7603173156cf8df344d3bf",Name:"YULTRON",Genres:["K-Rap","Korean R&B","Electro House","Electronic Trap"],BetterThan:[]},BluntsAndBlondes:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebe445a4aa2ce626954bbf0427",Name:"Blunts & Blondes",Genres:["Dubstep","Electronic Trap"],BetterThan:[]},Peekaboo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2da9e139d2a797ed241994ae",Name:"PEEKABOO",Genres:["Brostep","Dubstep","EDM","Electro House"],BetterThan:[]},Subtronics:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebda3630f6732d14437a4ab33d",Name:"Subtronics",Genres:["Dubstep","EDM","Electro House","Electronic Trap"],BetterThan:[]},ZedsDead:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8f9c9739f2bbee96365a4b23",Name:"Zeds Dead",Genres:["Brostep","Canadian Electronic","Dubstep","EDM"],BetterThan:[]},Anakim:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebb56ddd3cdc2d215bd2e01645",Name:"Anakim",Genres:["Melodic Techno","Focus Trance","Deep Euro House","Psytech"],BetterThan:[]},SitaAbellan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba6c9160a8c6443e20daf3ff7",Name:"Sita Abellan",Genres:[],BetterThan:[]},Rinzen:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb4bbdb94b3146ac6e446e4fda",Name:"Rinzen",Genres:["Progressive House","Electro House","EDM","Progressive Trance House"],BetterThan:[]},TownshipRebellion:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebbaae3016c7a67c9d1b5c1b39",Name:"Township Rebellion",Genres:["Tech House"],BetterThan:[]},Artbat:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebc1347b34c318f8af8d73bcbb",Name:"ARTBAT",Genres:["Ukranan Electronic"],BetterThan:[]},Testpilot:{ImageURL:"https://media.resources.festicket.com/www/artists/Testpilot.jpg",Name:"Testpilot",Genres:["Electro House","EDM","Deep Psytrance","Canadian Electronic"],BetterThan:[]},AceAura:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb366fd3f6f3cbde87885a9128",Name:"Ace Aura",Genres:["Dubstep","Electro House","Gaming Dubstep","Melodic Dubstep"],BetterThan:[]},Swarm:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebf1995aa88acba845510ddcce",Name:"SWARM",Genres:["Dark Clubbing"],BetterThan:[]},Wreckno:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb4e4f65d366599abcaeaf69fe",Name:"Wreckno",Genres:["Downtemp Bass"],BetterThan:[]},Esseks:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebdf7f3eb9fb7697ee78ffb1b7",Name:"Esseks",Genres:["Experimenal Bass","Glitch Hop"],BetterThan:[]},Jantsen:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb57c88cd5b9329109c1653d36",Name:"Jantsen",Genres:["Brostep","Dubstep","Electronic Trap","Filthstep"],BetterThan:[]},KaiWachi:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8aadf1695a1036e2f85afc78",Name:"Kai Wachi",Genres:["Brostep","Deathstep","Dubstep","EDM"],BetterThan:[]},Minnesota:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebab8396895eb46d8a8e4e1819",Name:"Minnesota",Genres:["Electronic Trap","Glitch Hop","Vapor Twitch"],BetterThan:[]},Charlesthefirst:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba41b57944614842146d5aa42",Name:"CharlestheFirst",Genres:["Vapor Twitch"],BetterThan:[]},BlackTigerSexMachine:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb388751478f5e571b4d076809",Name:"Black Tiger Sex Machine",Genres:["Brostep","Canadian Electronic","Dubstep","EDM"],BetterThan:[]},LadyFaith:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8cdf301e87b7ed46cfddbe71",Name:"Lady Faith",Genres:["Hardstyle"],BetterThan:[]},MikeSaintJules:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8150c78f0c7e8b36f9661f5c",Name:"Mike Saint-Jules",Genres:["Uplifting Trance","Trance","Progressive House","Progressive Trance"],BetterThan:[]},Fatum:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb42d4f2c722eb3c5aaac4b769",Name:"Fatum",Genres:["EDM","Pop Dance","Progressive House","Progressive Trance"],BetterThan:[]},CrystalSkies:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6337713a0ed078753a98ebfb",Name:"Crystal Skies",Genres:["EDM","Future Bass","Melodic Dubstep","Pop Dance"],BetterThan:[]},Mitis:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb9d9bef48318d01cae84aa33c",Name:"MitiS",Genres:["Chillstep","EDM","Filthstep","Future Bass"],BetterThan:[]},GardenState:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2703d9f5a3dfac48df67f4d8",Name:"gardenstate",Genres:["Progressive House"],BetterThan:[]},CosmicGate:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba3ba56b137a0d342da88e222",Name:"Cosmic Gate",Genres:["EDM","German Techno","German Trance","Pop Dance"],BetterThan:[]},Alpha9:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1db7115c547519936cdf1ca8",Name:"ALPHA9",Genres:["EDM","Pop Dance","Progressive House","Progressive Trance"],BetterThan:[]},Veil:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb30d86b9146bae541826bfd2e",Name:"Veil",Genres:["Experimental Bass","Deep Dubstep","Downtemp Bass"],BetterThan:[]},Mize:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb4c5a75f128700db9d4d1d8f5",Name:"Mize",Genres:["Downtemp Bass"],BetterThan:[]},Inzo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb780aaba7765cf031292368cd",Name:"INZO",Genres:["EDM","Future Bass"],BetterThan:[]},Hydraulix:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb88eacb052d3e93a2125710c9",Name:"Hydraulix",Genres:["Dubstep","Electronic Trap"],BetterThan:[]},Luzcid:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd06f31e516df365969112b7a",Name:"LUZCID",Genres:["Experimental Bass"],BetterThan:[]},ChampagneDrip:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebee8d7bd63658a5790778d6fc",Name:"Champagne Drip",Genres:["Brostep","Dubstep","EDM","Electro House"],BetterThan:[]},Tynan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb0c284b82a38518919df7a135",Name:"TYNAN",Genres:["Brostep","Dubstep","Electro House","Electronic Trap"],BetterThan:[]},Lsdream:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb9c3a088b53775fe1c1593c9f",Name:"LSDREAM",Genres:["EDM","Electro House","Electronic Trap"],BetterThan:[]},DirtMonkey:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba3e45314e56b70a08f14b098",Name:"Dirt Monkey",Genres:["Brostep","Dubstep","Electro House","Electronic Trap"],BetterThan:[]},LiquidStranger:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb5063b7e26f7c7fc5e7e065ad",Name:"Liquid Stranger",Genres:["Brostep","Downtempo","Drill and Bass","EDM"],BetterThan:[]},CocoAndBreezy:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2b9bb48d2ac995c130c08354",Name:"Coco & Breezy",Genres:["Soulful House"],BetterThan:[]},MooreKismet:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb37855ea73c1d7f704280f0fd",Name:"Moore Kismet",Genres:["Dubstep","Electronic Trap","Future Bass","Gaming Dubstep"],BetterThan:[]},ShipWrek:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb98170a22353d3b9987d26031",Name:"Ship Wrek",Genres:["Bass House","Electro House"],BetterThan:[]},PartyPupils:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb7a878b7fc55287dc1a56422f",Name:"Party Pupils",Genres:["Pop EDM"],BetterThan:[]},Jstjr:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebc774251aa87e4257d394b0fd",Name:"JSTJR",Genres:["Moombahton"],BetterThan:[]},Moksi:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebfb61cdc49924dcffd6d053c0",Name:"Moksi",Genres:["Bass House","Dutch EDM","EDM","Electro House"],BetterThan:[]},KQuestionD:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1bc18e94da95a701a247d278",Name:"k?d",Genres:["Electro house","Future bass"],BetterThan:[]},ValentinoKhan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6fc5669eabdb79e9c0978088",Name:"Valentino Khan",Genres:["Bass House","Brostep","EDM","Electro House"],BetterThan:[]},Ekali:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb5944586f169166ac0a03735e",Name:"Ekali",Genres:["Canadian Electronic","EDM","Electro House","Electronic Trap"],BetterThan:[]},AdamBraiman:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb5641bfde4a00d0b4cf320ecb",Name:"Adam Braiman",Genres:[],BetterThan:[]},Westend:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8849fbc95acf0053406ea4f2",Name:"Westend",Genres:["Bass House","Deep Groove House"],BetterThan:[]},Offaiah:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd38a1c3706f5a859962491c0",Name:"OFFAIAH",Genres:["Deep Groove House","Deep House","Disco House","EDM"],BetterThan:[]},MartinIkin:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1fb65abc5834a39623a4def0",Name:"Martin Ikin",Genres:["Bass House","Deep Groove House","Deep House","Disco House"],BetterThan:[]},JohnSummit:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd303aa4b68de27fb783f5f73",Name:"John Summit",Genres:["EDM","Electro House","House","Pop Dance"],BetterThan:[]},ChrisLorenzo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebdbf677efa21e32314dc976fb",Name:"Chris Lorenzo",Genres:["Bass House","Deep Groove House","Electro House","House"],BetterThan:[]},SonnyFodera:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebe03987a142f6ba53d230a58c",Name:"Sonny Fodera",Genres:["Dance Pop","Deep Groove House","House","Pop Dance"],BetterThan:[]},ShibaSan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb7f8ad21c26f4bb76a171381e",Name:"Shiba San",Genres:["Bass House","EDM","Electro House","French Tech House"],BetterThan:[]},Claptone:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb4fc7a1cd0f5b4c5b6f241533",Name:"Claptone",Genres:["Deep Disco House","German House","German Techno","House"],BetterThan:[]},CharlesMeyer:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb42b12f9b6cd181aef7d319fd",Name:"Charles Meyer",Genres:[],BetterThan:[]},KyleKinch:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb0bf10d38d640230902a15332",Name:"Kyle Kinch",Genres:["Bass House","House","Deep Groove House","Funky Tech House"],BetterThan:[]},BrunoFurlan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebfacb201f06da2290caec29f5",Name:"Bruno Furlan",Genres:["Bass House","Brazilian EDM","Brazilian Tech House"],BetterThan:[]},MasonMaynard:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb93a284bea6a7a4d78d807a4c",Name:"Mason Maynard",Genres:["House"],BetterThan:[]},Drezo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebc8857231fea0ac8e97eda776",Name:"Drezo",Genres:["Bass House","Electro House"],BetterThan:[]},Destructo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebbee72dd9b5a9033930b8e15e",Name:"Destructo",Genres:["Bass House","Electro House","Electronic Trap"],BetterThan:[]},DomDolla:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2c3b19dce6ac8c31ba37fb3e",Name:"Dom Dolla",Genres:["Australian House","Deep Groove House","EDM","Electro House"],BetterThan:[]},Sludge:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebe8664dfe8d58874e5d60bcee",Name:"Sludge",Genres:["Gaming Dubstep","Dubstep","Deathstep","Melodic Dubstep"],BetterThan:[]},Vampa:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb213f8082a20aa066ecc1a0ab",Name:"VAMPA",Genres:["Gaming Dubstep","Dubstep","Electronic Trap","Experimental Bass"],BetterThan:[]},Bommer:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb34ed3c1b51ce068ef1af6cba",Name:"Bommer",Genres:["Dubstep","Gaming Dubstep","Riddim Dubstep"],BetterThan:[]},Hekler:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb0cb692564c5bc6701843a877",Name:"Hekler",Genres:["Deathstep","Dubstep","Electronic Trap","Gaming Dubstep"],BetterThan:[]},Hesh:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebea57a5832bb552eaa08d9b28",Name:"HE$H",Genres:["Deathstep","Dubstep","Gaming Dubstep","Riddim Dubstep"],BetterThan:[]},Gammer:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb98101db98ba89a5fe1b7eab3",Name:"Gammer",Genres:["Electro House","Happy Hardcore","Hardcore Techno"],BetterThan:[]},Atliens:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6c79c9bcb0e73ad137560a6c",Name:"ATLiens",Genres:["Dubstep","Electro House","Electronic Trap"],BetterThan:[]},Deorro:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6927317407c8e2499d0cd39f",Name:"Deorro",Genres:["Dance Pop","EDM","Electro House","Melbourne Bounce"],BetterThan:[]},Carnage:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb9dce3cbff297c22fbcd62a96",Name:"Carnage",Genres:["EDM","Electro House","Electronic Trap","Trap"],BetterThan:[]},RiotTen:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb3c8c508e552f563fb4f52e1e",Name:"Riot Ten",Genres:["Dubstep","EDM","Electro House","Electronic Trap"],BetterThan:[]},Ghastly:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebdd40d9284c4c796a7aff6e9f",Name:"GHASTLY",Genres:["Brostep","Dubstep","EDM","Electro House"],BetterThan:[]},DukeDumont:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb208e2d15d19c97801c0bd5fc",Name:"Duke Dumont",Genres:["Destroy Techno","EDM","Electro House","House"],BetterThan:[]}};var Festivals={NorthCoast:{Schedule:[["[1]7:00","Illenium","Galantis","Mime","Gryffin"],["[1]7:30","Illenium","PorterRobinson","Diplo","SaidTheSky"]]},ElectricZoo:{Schedule:[["[1]3:00pm","Mime","Heyz","MikeSaintJules","CocoAndBreezy"],["[1]3:15pm","Mime","Heyz","MikeSaintJules","CocoAndBreezy"],["[1]3:30pm","Mime","Heyz","MikeSaintJules","CocoAndBreezy"],["[1]3:45pm","BrunoMartini","Sippy","MikeSaintJules","MooreKismet"],["[1]4:00pm","BrunoMartini","Sippy","MikeSaintJules","MooreKismet"],["[1]4:15pm","SamFeldt","Sippy","MikeSaintJules","MooreKismet"],["[1]4:30pm","SamFeldt","Lick","Fatum","MooreKismet"],["[1]4:45pm","SamFeldt","Lick","Fatum","ShipWrek"],["[1]5:00pm","SamFeldt","Lick","Fatum","ShipWrek"],["[1]5:15pm","Joyryde","Blanke","Fatum","ShipWrek"],["[1]5:30pm","Joyryde","Blanke","CrystalSkies","PartyPupils"],["[1]5:45pm","Joyryde","Blanke","CrystalSkies","PartyPupils"],["[1]6:00pm","Joyryde","Blanke","CrystalSkies","PartyPupils"],["[1]6:15pm","LoudLuxury","Yultron","CrystalSkies","Jstjr"],["[1]6:30pm","LoudLuxury","Yultron","Mitis","Jstjr"],["[1]6:45pm","LoudLuxury","Yultron","Mitis","Jstjr"],["[1]7:00pm","LoudLuxury","BluntsAndBlondes","Mitis","Jstjr"],["[1]7:15pm","Fisher","BluntsAndBlondes","Mitis","Moksi"],["[1]7:30pm","Fisher","BluntsAndBlondes","GardenState","Moksi"],["[1]7:45pm","Fisher","BluntsAndBlondes","GardenState","Moksi"],["[1]8:00pm","Fisher","Peekaboo","GardenState","KQuestionD"],["[1]8:15pm","Fisher","Peekaboo","GardenState","KQuestionD"],["[1]8:30pm","SevenLions","Peekaboo","CosmicGate","KQuestionD"],["[1]8:45pm","SevenLions","Subtronics","CosmicGate","KQuestionD"],["[1]9:00pm","SevenLions","Subtronics","CosmicGate","ValentinoKhan"],["[1]9:15pm","SevenLions","Subtronics","CosmicGate","ValentinoKhan"],["[1]9:30pm","Alesso","Subtronics","CosmicGate","ValentinoKhan"],["[1]9:45pm","Alesso","ZedsDead","Alpha9","ValentinoKhan"],["[1]10:00pm","Alesso","ZedsDead","Alpha9","Ekali"],["[1]10:15pm","Alesso","ZedsDead","Alpha9","Ekali"],["[1]10:30pm","Alesso","ZedsDead","Alpha9","Ekali"],["[1]10:45pm","Alesso","ZedsDead","Alpha9","Ekali"],["[2]1:00pm","Harber","Anakim","Veil","AdamBraiman"],["[2]1:15pm","Harber","Anakim","Veil","AdamBraiman"],["[2]1:30pm","Harber","Anakim","Veil","AdamBraiman"],["[2]1:45pm","Harber","Anakim","Veil","AdamBraiman"],["[2]2:00pm","KillScript","Anakim","Mize","AdamBraiman"],["[2]2:15pm","KillScript","Anakim","Mize","AdamBraiman"],["[2]2:30pm","KillScript","Anakim","Mize","AdamBraiman"],["[2]2:45pm","KillScript","Anakim","Mize","Westend"],["[2]3:00pm","DrFresch","SitaAbellan","Inzo","Westend"],["[2]3:15pm","DrFresch","SitaAbellan","Inzo","Westend"],["[2]3:30pm","DrFresch","SitaAbellan","Inzo","Westend"],["[2]3:45pm","DrFresch","SitaAbellan","Inzo","Offaiah"],["[2]4:00pm","Audien","SitaAbellan","Hydraulix","Offaiah"],["[2]4:15pm","Audien","SitaAbellan","Hydraulix","Offaiah"],["[2]4:30pm","Audien","Rinzen","Hydraulix","Offaiah"],["[2]4:45pm","Audien","Rinzen","Hydraulix","MartinIkin"],["[2]5:00pm","Zomboy","Rinzen","Luzcid","MartinIkin"],["[2]5:15pm","Zomboy","Rinzen","Luzcid","MartinIkin"],["[2]5:30pm","Zomboy","Rinzen","Luzcid","MartinIkin"],["[2]5:45pm","Zomboy","Rinzen","Luzcid","JohnSummit"],["[2]6:00pm","SteveAoki","TownshipRebellion","ChampagneDrip","JohnSummit"],["[2]6:15pm","SteveAoki","TownshipRebellion","ChampagneDrip","JohnSummit"],["[2]6:30pm","SteveAoki","TownshipRebellion","ChampagneDrip","JohnSummit"],["[2]6:45pm","SteveAoki","TownshipRebellion","ChampagneDrip","ChrisLorenzo"],["[2]7:00pm","Tiesto","TownshipRebellion","Tynan","ChrisLorenzo"],["[2]7:15pm","Tiesto","TownshipRebellion","Tynan","ChrisLorenzo"],["[2]7:30pm","Tiesto","Artbat","Tynan","ChrisLorenzo"],["[2]7:45pm","Tiesto","Artbat","Tynan","SonnyFodera"],["[2]8:00pm","Tiesto","Artbat","Lsdream","SonnyFodera"],["[2]8:15pm","Rezz","Artbat","Lsdream","SonnyFodera"],["[2]8:30pm","Rezz","Artbat","Lsdream","SonnyFodera"],["[2]8:45pm","Rezz","Artbat","Lsdream","ShibaSan"],["[2]9:00pm","Rezz","Testpilot","DirtMonkey","ShibaSan"],["[2]9:15pm","Rezz","Testpilot","DirtMonkey","ShibaSan"],["[2]9:30pm","Kaskade","Testpilot","DirtMonkey","ShibaSan"],["[2]9:45pm","Kaskade","Testpilot","DirtMonkey","Claptone"],["[2]10:00pm","Kaskade","Testpilot","LiquidStranger","Claptone"],["[2]10:15pm","Kaskade","Testpilot","LiquidStranger","Claptone"],["[2]10:30pm","Kaskade","Testpilot","LiquidStranger","Claptone"],["[2]10:45pm","Kaskade","Testpilot","LiquidStranger","Claptone"],["[3]1:00pm","NightTales","AceAura","Sludge","CharlesMeyer"],["[3]1:15pm","NightTales","AceAura","Sludge","CharlesMeyer"],["[3]1:30pm","NightTales","AceAura","Vampa","CharlesMeyer"],["[3]1:45pm","NightTales","Swarm","Vampa","CharlesMeyer"],["[3]2:00pm","OverEasy","Swarm","Vampa","CharlesMeyer"],["[3]2:15pm","OverEasy","Swarm","Bommer","CharlesMeyer"],["[3]2:30pm","OverEasy","Swarm","Bommer","CharlesMeyer"],["[3]2:45pm","OverEasy","Wreckno","Hekler","CharlesMeyer"],["[3]3:00pm","Jvna","Wreckno","Hekler","KyleKinch"],["[3]3:15pm","Jvna","Wreckno","Hekler","KyleKinch"],["[3]3:30pm","Jvna","Wreckno","Hesh","KyleKinch"],["[3]3:45pm","Jvna","Esseks","Hesh","KyleKinch"],["[3]4:00pm","AndrewRayel","Esseks","Hesh","BrunoFurlan"],["[3]4:15pm","AndrewRayel","Esseks","Hesh","BrunoFurlan"],["[3]4:30pm","AndrewRayel","Jantsen","Gammer","BrunoFurlan"],["[3]4:45pm","AdventureClub","Jantsen","Gammer","BrunoFurlan"],["[3]5:00pm","AdventureClub","Jantsen","Gammer","MasonMaynard"],["[3]5:15pm","AdventureClub","Jantsen","Gammer","MasonMaynard"],["[3]5:30pm","AdventureClub","KaiWachi","Atliens","MasonMaynard"],["[3]5:45pm","AlanWalker","KaiWachi","Atliens","MasonMaynard"],["[3]6:00pm","AlanWalker","KaiWachi","Atliens","Drezo"],["[3]6:15pm","AlanWalker","KaiWachi","Atliens","Drezo"],["[3]6:30pm","AlanWalker","Minnesota","Deorro","Drezo"],["[3]6:45pm","AlanWalker","Minnesota","Deorro","Drezo"],["[3]7:00pm","Kshmr","Minnesota","Deorro","Destructo"],["[3]7:15pm","Kshmr","Minnesota","Deorro","Destructo"],["[3]7:30pm","Kshmr","Charlesthefirst","Carnage","Destructo"],["[3]7:45pm","Kshmr","Charlesthefirst","Carnage","Destructo"],["[3]8:00pm","Kshmr","Charlesthefirst","Carnage","Destructo"],["[3]8:15pm","Galantis","Charlesthefirst","Carnage","DomDolla"],["[3]8:30pm","Galantis","Charlesthefirst","RiotTen","DomDolla"],["[3]8:45pm","Galantis","BlackTigerSexMachine","RiotTen","DomDolla"],["[3]9:00pm","Galantis","BlackTigerSexMachine","RiotTen","DomDolla"],["[3]9:15pm","Galantis","BlackTigerSexMachine","RiotTen","DomDolla"],["[3]9:30pm","Illenium","BlackTigerSexMachine","RiotTen","DukeDumont"],["[3]9:45pm","Illenium","LadyFaith","Ghastly","DukeDumont"],["[3]10:00pm","Illenium","LadyFaith","Ghastly","DukeDumont"],["[3]10:15pm","Illenium","LadyFaith","Ghastly","DukeDumont"],["[3]10:30pm","Illenium","LadyFaith","Ghastly","DukeDumont"],["[3]10:45pm","Illenium","LadyFaith","Ghastly","DukeDumont"]]}};var data = {Artists:Artists,Festivals:Festivals};
+    var Artists={Illenium:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6b5fbf615ada187ce5e425c8",Name:"Illenium",Genres:["Melodic Dubstep","Sad Boy","Pop","Pop Dance"],BetterThan:[]},Galantis:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2ca90cb37bf1557d385b9d48",Name:"Galantis",Genres:["Dance Pop","EDM","Electro House","Pop"],BetterThan:[]},TwoFriends:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2ebfa3de9d4f27eaa0dde614",Name:"Two Friends",Genres:["Big Booties","EDM","Pop Dance","Tropical House"],BetterThan:[]},PorterRobinson:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6ccb967cecc6f1da90fe355e",Name:"Porter Robinson",Genres:["Complextro","EDM","Future Bass","Melodic Dubstep"],BetterThan:[]},Diplo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebee376ee0e88042b34dee6e62",Name:"Diplo",Genres:["EDM","Electro House","Moombahton","Ninja"],BetterThan:[]},SaidTheSky:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebcd9e2b8f901285164a7fde6c",Name:"Said The Sky",Genres:["EDM","Electro Pop","Future Bass","Melodic Dubstep"],BetterThan:[]},Gryffin:{ImageURL:"https://apeconcerts.com/wp-content/uploads/2018/10/gryffin_18_1024-1024x576.jpg",Name:"Gryffin",Genres:["Dance Pop","EDM","Pop","Pop Dance"],BetterThan:[]},Mime:{ImageURL:"https://i.scdn.co/image/3294d45132b491b193fb3e7423d1c81af217cd08",Name:"Mime",Genres:["Slap House"],BetterThan:[]},BrunoMartini:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb826de4d67a791e8f5e058139",Name:"Bruno Martini",Genres:["EDM","Brazilian EDM","Pop Nacional"],BetterThan:[]},SamFeldt:{ImageURL:"https://yt3.ggpht.com/ytc/AKedOLS-_viGnqoTz84l9y9Zrp4juHqwIHeDix0UGlop2Q=s900-c-k-c0x00ffffff-no-rj",Name:"Sam Feldt",Genres:["Dance Pop","EDM","Electro House","Pop Dance"],BetterThan:[]},Joyryde:{ImageURL:"https://i1.sndcdn.com/avatars-000145463923-qyfu09-t500x500.jpg",Name:"JOYRYDE",Genres:["Bass House","EDM","Electro House","Electronic Trap"],BetterThan:[]},LoudLuxury:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba4686c91d1b14b400725f95e",Name:"Loud Luxury",Genres:["Dance Pop","EDM","Electro House","Pop"],BetterThan:[]},Fisher:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb26b6458775a693999d024473",Name:"FISHER",Genres:["Australian House"],BetterThan:[]},SevenLions:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb3a120b5c7fefeed869234a71",Name:"Seven Lions",Genres:["Dubstep","EDM","Electro House","Future Bass"],BetterThan:[]},Alesso:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1605eca2d6cc32b05a2d56b1",Name:"Alesso",Genres:["Dance Pop","EDM","Electro House","Pop"],BetterThan:[]},Harber:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb59e4071d1ecb0459b74c2b1a",Name:"HARBER",Genres:["Belgian EDM","Dutch House"],BetterThan:[]},KillScript:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebf213fe23046692d2a725af33",Name:"KILL SCRIPT",Genres:["Electro House","Dark Clubbing","Vapor Twitch","Experimental Bass"],BetterThan:[]},DrFresch:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb5eb95846d69c3a6858ce3839",Name:"Dr. Fresch",Genres:["Bass House","EDM","Electro House","Electronic Trap"],BetterThan:[]},Audien:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb275d687af88bb66830756ff6",Name:"Audien",Genres:["EDM","Electro House","Pop Dance","Pop EDM"],BetterThan:[]},Zomboy:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb82bf025983a4856645a866b4",Name:"Zomboy",Genres:["Brostep","Dubstep","EDM","Electro House"],BetterThan:[]},SteveAoki:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb7c4240b7951da248f3404e42",Name:"Steve Aoki",Genres:["Dance Pop","EDM","Electro House"],BetterThan:[]},Tiesto:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8cb651b2e77c6d30b1de15e4",Name:"Tiesto",Genres:["Big Room","Brostep","Dance Pop","Dutch EDM"],BetterThan:[]},Rezz:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd32795654cee9204e8bdcfde",Name:"Rezz",Genres:["Canadian Electronic","EDM","Electra","Electro House"],BetterThan:[]},Kaskade:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebc96f32c30b4c236b5b9c40fa",Name:"Kaskade",Genres:["EDM","Electronic House","House","Pop Dance"],BetterThan:[]},NightTales:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb982bdd0408ef501f4bdeaefc",Name:"Night Tales",Genres:["Australian Dance"],BetterThan:[]},OverEasy:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb14aba73aed46ed4e0794eff7",Name:"Over Easy",Genres:["Pop EDM","Melodic Dubstep","Pop Dance","Progressive Electro House"],BetterThan:[]},Jvna:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebf5b12b45d7b36943ccfbc68e",Name:"JVNA",Genres:["Electra","Future Bass","Melodic Dubstep","Pop EDM"],BetterThan:[]},AndrewRayel:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb13bdeaa329767db2d03db7fb",Name:"Andrew Rayel",Genres:["EDM","Moldovan Pop","Pop Dance","Progressive House"],BetterThan:[]},AdventureClub:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb40baef401cb7f5c6511771bc",Name:"Adventure Club",Genres:["Brostep","Canadian Electronic","EDM","Electro House"],BetterThan:[]},AlanWalker:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb29da45fd16f4b249be105618",Name:"Alan Walker",Genres:["Alan Walker","That Roblox Song"],BetterThan:[]},Kshmr:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd1db941d6e307ab229651fae",Name:"KSHMR",Genres:["Big Room","EDM","Electro House","Indian EDM"],BetterThan:[]},Heyz:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebdf1461245bb0050c0a5063f5",Name:"Heyz",Genres:["Expermental Bass","Dubstep","Gaming Dubstep","Electro House"],BetterThan:[]},Sippy:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2619a05ec4de2457a244dd52",Name:"SIPPY",Genres:["Dubstep","Gaming Dubstep","Electro House","Brostep"],BetterThan:[]},Lick:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb87b0e3c885f5948e583ea628",Name:"LICK",Genres:["Dark Clubbing","Experimental Bass"],BetterThan:[]},Blanke:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb73d2a8b4517d99178d76f75d",Name:"Blanke",Genres:["Dubstep","EDM","Electro House","Future Bass"],BetterThan:[]},Yultron:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1a7603173156cf8df344d3bf",Name:"YULTRON",Genres:["K-Rap","Korean R&B","Electro House","Electronic Trap"],BetterThan:[]},BluntsAndBlondes:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebe445a4aa2ce626954bbf0427",Name:"Blunts & Blondes",Genres:["Dubstep","Electronic Trap"],BetterThan:[]},Peekaboo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2da9e139d2a797ed241994ae",Name:"PEEKABOO",Genres:["Brostep","Dubstep","EDM","Electro House"],BetterThan:[]},Subtronics:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebda3630f6732d14437a4ab33d",Name:"Subtronics",Genres:["Dubstep","EDM","Electro House","Electronic Trap"],BetterThan:[]},ZedsDead:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8f9c9739f2bbee96365a4b23",Name:"Zeds Dead",Genres:["Brostep","Canadian Electronic","Dubstep","EDM"],BetterThan:[]},Anakim:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebb56ddd3cdc2d215bd2e01645",Name:"Anakim",Genres:["Melodic Techno","Focus Trance","Deep Euro House","Psytech"],BetterThan:[]},SitaAbellan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba6c9160a8c6443e20daf3ff7",Name:"Sita Abellan",Genres:[],BetterThan:[]},Rinzen:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb4bbdb94b3146ac6e446e4fda",Name:"Rinzen",Genres:["Progressive House","Electro House","EDM","Progressive Trance House"],BetterThan:[]},TownshipRebellion:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebbaae3016c7a67c9d1b5c1b39",Name:"Township Rebellion",Genres:["Tech House"],BetterThan:[]},Artbat:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebc1347b34c318f8af8d73bcbb",Name:"ARTBAT",Genres:["Ukranan Electronic"],BetterThan:[]},Testpilot:{ImageURL:"https://media.resources.festicket.com/www/artists/Testpilot.jpg",Name:"Testpilot",Genres:["Electro House","EDM","Deep Psytrance","Canadian Electronic"],BetterThan:[]},AceAura:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb366fd3f6f3cbde87885a9128",Name:"Ace Aura",Genres:["Dubstep","Electro House","Gaming Dubstep","Melodic Dubstep"],BetterThan:[]},Swarm:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebf1995aa88acba845510ddcce",Name:"SWARM",Genres:["Dark Clubbing"],BetterThan:[]},Wreckno:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb4e4f65d366599abcaeaf69fe",Name:"Wreckno",Genres:["Downtemp Bass"],BetterThan:[]},Esseks:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebdf7f3eb9fb7697ee78ffb1b7",Name:"Esseks",Genres:["Experimenal Bass","Glitch Hop"],BetterThan:[]},Jantsen:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb57c88cd5b9329109c1653d36",Name:"Jantsen",Genres:["Brostep","Dubstep","Electronic Trap","Filthstep"],BetterThan:[]},KaiWachi:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8aadf1695a1036e2f85afc78",Name:"Kai Wachi",Genres:["Brostep","Deathstep","Dubstep","EDM"],BetterThan:[]},Minnesota:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebab8396895eb46d8a8e4e1819",Name:"Minnesota",Genres:["Electronic Trap","Glitch Hop","Vapor Twitch"],BetterThan:[]},Charlesthefirst:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba41b57944614842146d5aa42",Name:"CharlestheFirst",Genres:["Vapor Twitch"],BetterThan:[]},BlackTigerSexMachine:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb388751478f5e571b4d076809",Name:"Black Tiger Sex Machine",Genres:["Brostep","Canadian Electronic","Dubstep","EDM"],BetterThan:[]},LadyFaith:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8cdf301e87b7ed46cfddbe71",Name:"Lady Faith",Genres:["Hardstyle"],BetterThan:[]},MikeSaintJules:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8150c78f0c7e8b36f9661f5c",Name:"Mike Saint-Jules",Genres:["Uplifting Trance","Trance","Progressive House","Progressive Trance"],BetterThan:[]},Fatum:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb42d4f2c722eb3c5aaac4b769",Name:"Fatum",Genres:["EDM","Pop Dance","Progressive House","Progressive Trance"],BetterThan:[]},CrystalSkies:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6337713a0ed078753a98ebfb",Name:"Crystal Skies",Genres:["EDM","Future Bass","Melodic Dubstep","Pop Dance"],BetterThan:[]},Mitis:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb9d9bef48318d01cae84aa33c",Name:"MitiS",Genres:["Chillstep","EDM","Filthstep","Future Bass"],BetterThan:[]},GardenState:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2703d9f5a3dfac48df67f4d8",Name:"gardenstate",Genres:["Progressive House"],BetterThan:[]},CosmicGate:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba3ba56b137a0d342da88e222",Name:"Cosmic Gate",Genres:["EDM","German Techno","German Trance","Pop Dance"],BetterThan:[]},Alpha9:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1db7115c547519936cdf1ca8",Name:"ALPHA9",Genres:["EDM","Pop Dance","Progressive House","Progressive Trance"],BetterThan:[]},Veil:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb30d86b9146bae541826bfd2e",Name:"Veil",Genres:["Experimental Bass","Deep Dubstep","Downtemp Bass"],BetterThan:[]},Mize:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb4c5a75f128700db9d4d1d8f5",Name:"Mize",Genres:["Downtemp Bass"],BetterThan:[]},Inzo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb780aaba7765cf031292368cd",Name:"INZO",Genres:["EDM","Future Bass"],BetterThan:[]},Hydraulix:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb88eacb052d3e93a2125710c9",Name:"Hydraulix",Genres:["Dubstep","Electronic Trap"],BetterThan:[]},Luzcid:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd06f31e516df365969112b7a",Name:"LUZCID",Genres:["Experimental Bass"],BetterThan:[]},ChampagneDrip:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebee8d7bd63658a5790778d6fc",Name:"Champagne Drip",Genres:["Brostep","Dubstep","EDM","Electro House"],BetterThan:[]},Tynan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb0c284b82a38518919df7a135",Name:"TYNAN",Genres:["Brostep","Dubstep","Electro House","Electronic Trap"],BetterThan:[]},Lsdream:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb9c3a088b53775fe1c1593c9f",Name:"LSDREAM",Genres:["EDM","Electro House","Electronic Trap"],BetterThan:[]},DirtMonkey:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eba3e45314e56b70a08f14b098",Name:"Dirt Monkey",Genres:["Brostep","Dubstep","Electro House","Electronic Trap"],BetterThan:[]},LiquidStranger:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb5063b7e26f7c7fc5e7e065ad",Name:"Liquid Stranger",Genres:["Brostep","Downtempo","Drill and Bass","EDM"],BetterThan:[]},CocoAndBreezy:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2b9bb48d2ac995c130c08354",Name:"Coco & Breezy",Genres:["Soulful House"],BetterThan:[]},MooreKismet:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb37855ea73c1d7f704280f0fd",Name:"Moore Kismet",Genres:["Dubstep","Electronic Trap","Future Bass","Gaming Dubstep"],BetterThan:[]},ShipWrek:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb98170a22353d3b9987d26031",Name:"Ship Wrek",Genres:["Bass House","Electro House"],BetterThan:[]},PartyPupils:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb7a878b7fc55287dc1a56422f",Name:"Party Pupils",Genres:["Pop EDM"],BetterThan:[]},Jstjr:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebc774251aa87e4257d394b0fd",Name:"JSTJR",Genres:["Moombahton"],BetterThan:[]},Moksi:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebfb61cdc49924dcffd6d053c0",Name:"Moksi",Genres:["Bass House","Dutch EDM","EDM","Electro House"],BetterThan:[]},KQuestionD:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1bc18e94da95a701a247d278",Name:"k?d",Genres:["Electro house","Future bass"],BetterThan:[]},ValentinoKhan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6fc5669eabdb79e9c0978088",Name:"Valentino Khan",Genres:["Bass House","Brostep","EDM","Electro House"],BetterThan:[]},Ekali:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb5944586f169166ac0a03735e",Name:"Ekali",Genres:["Canadian Electronic","EDM","Electro House","Electronic Trap"],BetterThan:[]},AdamBraiman:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb5641bfde4a00d0b4cf320ecb",Name:"Adam Braiman",Genres:[],BetterThan:[]},Westend:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb8849fbc95acf0053406ea4f2",Name:"Westend",Genres:["Bass House","Deep Groove House"],BetterThan:[]},Offaiah:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd38a1c3706f5a859962491c0",Name:"OFFAIAH",Genres:["Deep Groove House","Deep House","Disco House","EDM"],BetterThan:[]},MartinIkin:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb1fb65abc5834a39623a4def0",Name:"Martin Ikin",Genres:["Bass House","Deep Groove House","Deep House","Disco House"],BetterThan:[]},JohnSummit:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebd303aa4b68de27fb783f5f73",Name:"John Summit",Genres:["EDM","Electro House","House","Pop Dance"],BetterThan:[]},ChrisLorenzo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebdbf677efa21e32314dc976fb",Name:"Chris Lorenzo",Genres:["Bass House","Deep Groove House","Electro House","House"],BetterThan:[]},SonnyFodera:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebe03987a142f6ba53d230a58c",Name:"Sonny Fodera",Genres:["Dance Pop","Deep Groove House","House","Pop Dance"],BetterThan:[]},ShibaSan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb7f8ad21c26f4bb76a171381e",Name:"Shiba San",Genres:["Bass House","EDM","Electro House","French Tech House"],BetterThan:[]},Claptone:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb4fc7a1cd0f5b4c5b6f241533",Name:"Claptone",Genres:["Deep Disco House","German House","German Techno","House"],BetterThan:[]},CharlesMeyer:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb42b12f9b6cd181aef7d319fd",Name:"Charles Meyer",Genres:[],BetterThan:[]},KyleKinch:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb0bf10d38d640230902a15332",Name:"Kyle Kinch",Genres:["Bass House","House","Deep Groove House","Funky Tech House"],BetterThan:[]},BrunoFurlan:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebfacb201f06da2290caec29f5",Name:"Bruno Furlan",Genres:["Bass House","Brazilian EDM","Brazilian Tech House"],BetterThan:[]},MasonMaynard:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb93a284bea6a7a4d78d807a4c",Name:"Mason Maynard",Genres:["House"],BetterThan:[]},Drezo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebc8857231fea0ac8e97eda776",Name:"Drezo",Genres:["Bass House","Electro House"],BetterThan:[]},Destructo:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebbee72dd9b5a9033930b8e15e",Name:"Destructo",Genres:["Bass House","Electro House","Electronic Trap"],BetterThan:[]},DomDolla:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb2c3b19dce6ac8c31ba37fb3e",Name:"Dom Dolla",Genres:["Australian House","Deep Groove House","EDM","Electro House"],BetterThan:[]},Sludge:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebe8664dfe8d58874e5d60bcee",Name:"Sludge",Genres:["Gaming Dubstep","Dubstep","Deathstep","Melodic Dubstep"],BetterThan:[]},Vampa:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb213f8082a20aa066ecc1a0ab",Name:"VAMPA",Genres:["Gaming Dubstep","Dubstep","Electronic Trap","Experimental Bass"],BetterThan:[]},Bommer:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb34ed3c1b51ce068ef1af6cba",Name:"Bommer",Genres:["Dubstep","Gaming Dubstep","Riddim Dubstep"],BetterThan:[]},Hekler:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb0cb692564c5bc6701843a877",Name:"Hekler",Genres:["Deathstep","Dubstep","Electronic Trap","Gaming Dubstep"],BetterThan:[]},Hesh:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebea57a5832bb552eaa08d9b28",Name:"HE$H",Genres:["Deathstep","Dubstep","Gaming Dubstep","Riddim Dubstep"],BetterThan:[]},Gammer:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb98101db98ba89a5fe1b7eab3",Name:"Gammer",Genres:["Electro House","Happy Hardcore","Hardcore Techno"],BetterThan:[]},Atliens:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6c79c9bcb0e73ad137560a6c",Name:"ATLiens",Genres:["Dubstep","Electro House","Electronic Trap"],BetterThan:[]},Deorro:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb6927317407c8e2499d0cd39f",Name:"Deorro",Genres:["Dance Pop","EDM","Electro House","Melbourne Bounce"],BetterThan:[]},Carnage:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb9dce3cbff297c22fbcd62a96",Name:"Carnage",Genres:["EDM","Electro House","Electronic Trap","Trap"],BetterThan:[]},RiotTen:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb3c8c508e552f563fb4f52e1e",Name:"Riot Ten",Genres:["Dubstep","EDM","Electro House","Electronic Trap"],BetterThan:[]},Ghastly:{ImageURL:"https://i.scdn.co/image/ab6761610000e5ebdd40d9284c4c796a7aff6e9f",Name:"GHASTLY",Genres:["Brostep","Dubstep","EDM","Electro House"],BetterThan:[]},DukeDumont:{ImageURL:"https://i.scdn.co/image/ab6761610000e5eb208e2d15d19c97801c0bd5fc",Name:"Duke Dumont",Genres:["Destroy Techno","EDM","Electro House","House"],BetterThan:[]}};var Festivals={NorthCoast:{Schedule:[["[1]7:00","Illenium","Galantis","Mime","Gryffin"],["[1]7:30","Illenium","PorterRobinson","Diplo","SaidTheSky"]],StartTime:"7:00pm"},ElectricZoo:{Schedule:[["[1]3:00pm","Mime","Heyz","MikeSaintJules","CocoAndBreezy"],["[1]3:15pm","Mime","Heyz","MikeSaintJules","CocoAndBreezy"],["[1]3:30pm","Mime","Heyz","MikeSaintJules","CocoAndBreezy"],["[1]3:45pm","BrunoMartini","Sippy","MikeSaintJules","MooreKismet"],["[1]4:00pm","BrunoMartini","Sippy","MikeSaintJules","MooreKismet"],["[1]4:15pm","SamFeldt","Sippy","MikeSaintJules","MooreKismet"],["[1]4:30pm","SamFeldt","Lick","Fatum","MooreKismet"],["[1]4:45pm","SamFeldt","Lick","Fatum","ShipWrek"],["[1]5:00pm","SamFeldt","Lick","Fatum","ShipWrek"],["[1]5:15pm","Joyryde","Blanke","Fatum","ShipWrek"],["[1]5:30pm","Joyryde","Blanke","CrystalSkies","PartyPupils"],["[1]5:45pm","Joyryde","Blanke","CrystalSkies","PartyPupils"],["[1]6:00pm","Joyryde","Blanke","CrystalSkies","PartyPupils"],["[1]6:15pm","LoudLuxury","Yultron","CrystalSkies","Jstjr"],["[1]6:30pm","LoudLuxury","Yultron","Mitis","Jstjr"],["[1]6:45pm","LoudLuxury","Yultron","Mitis","Jstjr"],["[1]7:00pm","LoudLuxury","BluntsAndBlondes","Mitis","Jstjr"],["[1]7:15pm","Fisher","BluntsAndBlondes","Mitis","Moksi"],["[1]7:30pm","Fisher","BluntsAndBlondes","GardenState","Moksi"],["[1]7:45pm","Fisher","BluntsAndBlondes","GardenState","Moksi"],["[1]8:00pm","Fisher","Peekaboo","GardenState","KQuestionD"],["[1]8:15pm","Fisher","Peekaboo","GardenState","KQuestionD"],["[1]8:30pm","SevenLions","Peekaboo","CosmicGate","KQuestionD"],["[1]8:45pm","SevenLions","Subtronics","CosmicGate","KQuestionD"],["[1]9:00pm","SevenLions","Subtronics","CosmicGate","ValentinoKhan"],["[1]9:15pm","SevenLions","Subtronics","CosmicGate","ValentinoKhan"],["[1]9:30pm","Alesso","Subtronics","CosmicGate","ValentinoKhan"],["[1]9:45pm","Alesso","ZedsDead","Alpha9","ValentinoKhan"],["[1]10:00pm","Alesso","ZedsDead","Alpha9","Ekali"],["[1]10:15pm","Alesso","ZedsDead","Alpha9","Ekali"],["[1]10:30pm","Alesso","ZedsDead","Alpha9","Ekali"],["[1]10:45pm","Alesso","ZedsDead","Alpha9","Ekali"],["[2]1:00pm","Harber","Anakim","Veil","AdamBraiman"],["[2]1:15pm","Harber","Anakim","Veil","AdamBraiman"],["[2]1:30pm","Harber","Anakim","Veil","AdamBraiman"],["[2]1:45pm","Harber","Anakim","Veil","AdamBraiman"],["[2]2:00pm","KillScript","Anakim","Mize","AdamBraiman"],["[2]2:15pm","KillScript","Anakim","Mize","AdamBraiman"],["[2]2:30pm","KillScript","Anakim","Mize","AdamBraiman"],["[2]2:45pm","KillScript","Anakim","Mize","Westend"],["[2]3:00pm","DrFresch","SitaAbellan","Inzo","Westend"],["[2]3:15pm","DrFresch","SitaAbellan","Inzo","Westend"],["[2]3:30pm","DrFresch","SitaAbellan","Inzo","Westend"],["[2]3:45pm","DrFresch","SitaAbellan","Inzo","Offaiah"],["[2]4:00pm","Audien","SitaAbellan","Hydraulix","Offaiah"],["[2]4:15pm","Audien","SitaAbellan","Hydraulix","Offaiah"],["[2]4:30pm","Audien","Rinzen","Hydraulix","Offaiah"],["[2]4:45pm","Audien","Rinzen","Hydraulix","MartinIkin"],["[2]5:00pm","Zomboy","Rinzen","Luzcid","MartinIkin"],["[2]5:15pm","Zomboy","Rinzen","Luzcid","MartinIkin"],["[2]5:30pm","Zomboy","Rinzen","Luzcid","MartinIkin"],["[2]5:45pm","Zomboy","Rinzen","Luzcid","JohnSummit"],["[2]6:00pm","SteveAoki","TownshipRebellion","ChampagneDrip","JohnSummit"],["[2]6:15pm","SteveAoki","TownshipRebellion","ChampagneDrip","JohnSummit"],["[2]6:30pm","SteveAoki","TownshipRebellion","ChampagneDrip","JohnSummit"],["[2]6:45pm","SteveAoki","TownshipRebellion","ChampagneDrip","ChrisLorenzo"],["[2]7:00pm","Tiesto","TownshipRebellion","Tynan","ChrisLorenzo"],["[2]7:15pm","Tiesto","TownshipRebellion","Tynan","ChrisLorenzo"],["[2]7:30pm","Tiesto","Artbat","Tynan","ChrisLorenzo"],["[2]7:45pm","Tiesto","Artbat","Tynan","SonnyFodera"],["[2]8:00pm","Tiesto","Artbat","Lsdream","SonnyFodera"],["[2]8:15pm","Rezz","Artbat","Lsdream","SonnyFodera"],["[2]8:30pm","Rezz","Artbat","Lsdream","SonnyFodera"],["[2]8:45pm","Rezz","Artbat","Lsdream","ShibaSan"],["[2]9:00pm","Rezz","Testpilot","DirtMonkey","ShibaSan"],["[2]9:15pm","Rezz","Testpilot","DirtMonkey","ShibaSan"],["[2]9:30pm","Kaskade","Testpilot","DirtMonkey","ShibaSan"],["[2]9:45pm","Kaskade","Testpilot","DirtMonkey","Claptone"],["[2]10:00pm","Kaskade","Testpilot","LiquidStranger","Claptone"],["[2]10:15pm","Kaskade","Testpilot","LiquidStranger","Claptone"],["[2]10:30pm","Kaskade","Testpilot","LiquidStranger","Claptone"],["[2]10:45pm","Kaskade","Testpilot","LiquidStranger","Claptone"],["[3]1:00pm","NightTales","AceAura","Sludge","CharlesMeyer"],["[3]1:15pm","NightTales","AceAura","Sludge","CharlesMeyer"],["[3]1:30pm","NightTales","AceAura","Vampa","CharlesMeyer"],["[3]1:45pm","NightTales","Swarm","Vampa","CharlesMeyer"],["[3]2:00pm","OverEasy","Swarm","Vampa","CharlesMeyer"],["[3]2:15pm","OverEasy","Swarm","Bommer","CharlesMeyer"],["[3]2:30pm","OverEasy","Swarm","Bommer","CharlesMeyer"],["[3]2:45pm","OverEasy","Wreckno","Hekler","CharlesMeyer"],["[3]3:00pm","Jvna","Wreckno","Hekler","KyleKinch"],["[3]3:15pm","Jvna","Wreckno","Hekler","KyleKinch"],["[3]3:30pm","Jvna","Wreckno","Hesh","KyleKinch"],["[3]3:45pm","Jvna","Esseks","Hesh","KyleKinch"],["[3]4:00pm","AndrewRayel","Esseks","Hesh","BrunoFurlan"],["[3]4:15pm","AndrewRayel","Esseks","Hesh","BrunoFurlan"],["[3]4:30pm","AndrewRayel","Jantsen","Gammer","BrunoFurlan"],["[3]4:45pm","AdventureClub","Jantsen","Gammer","BrunoFurlan"],["[3]5:00pm","AdventureClub","Jantsen","Gammer","MasonMaynard"],["[3]5:15pm","AdventureClub","Jantsen","Gammer","MasonMaynard"],["[3]5:30pm","AdventureClub","KaiWachi","Atliens","MasonMaynard"],["[3]5:45pm","AlanWalker","KaiWachi","Atliens","MasonMaynard"],["[3]6:00pm","AlanWalker","KaiWachi","Atliens","Drezo"],["[3]6:15pm","AlanWalker","KaiWachi","Atliens","Drezo"],["[3]6:30pm","AlanWalker","Minnesota","Deorro","Drezo"],["[3]6:45pm","AlanWalker","Minnesota","Deorro","Drezo"],["[3]7:00pm","Kshmr","Minnesota","Deorro","Destructo"],["[3]7:15pm","Kshmr","Minnesota","Deorro","Destructo"],["[3]7:30pm","Kshmr","Charlesthefirst","Carnage","Destructo"],["[3]7:45pm","Kshmr","Charlesthefirst","Carnage","Destructo"],["[3]8:00pm","Kshmr","Charlesthefirst","Carnage","Destructo"],["[3]8:15pm","Galantis","Charlesthefirst","Carnage","DomDolla"],["[3]8:30pm","Galantis","Charlesthefirst","RiotTen","DomDolla"],["[3]8:45pm","Galantis","BlackTigerSexMachine","RiotTen","DomDolla"],["[3]9:00pm","Galantis","BlackTigerSexMachine","RiotTen","DomDolla"],["[3]9:15pm","Galantis","BlackTigerSexMachine","RiotTen","DomDolla"],["[3]9:30pm","Illenium","BlackTigerSexMachine","RiotTen","DukeDumont"],["[3]9:45pm","Illenium","LadyFaith","Ghastly","DukeDumont"],["[3]10:00pm","Illenium","LadyFaith","Ghastly","DukeDumont"],["[3]10:15pm","Illenium","LadyFaith","Ghastly","DukeDumont"],["[3]10:30pm","Illenium","LadyFaith","Ghastly","DukeDumont"],["[3]10:45pm","Illenium","LadyFaith","Ghastly","DukeDumont"]],StartTime:"1:00pm"}};var data = {Artists:Artists,Festivals:Festivals};
 
     var data$1 = /*#__PURE__*/Object.freeze({
         __proto__: null,
@@ -1730,17 +1730,62 @@ var app = (function () {
 
     function get_each_context(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[7] = list[i];
-    	child_ctx[9] = i;
+    	child_ctx[10] = list[i];
+    	child_ctx[12] = i;
     	return child_ctx;
     }
 
-    // (33:4) {#each Array($scheduleTimes.length) as _, i}
-    function create_each_block(ctx) {
+    function get_each_context_1(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[10] = list[i];
+    	child_ctx[14] = i;
+    	return child_ctx;
+    }
+
+    function get_each_context_2(ctx, list, i) {
+    	const child_ctx = ctx.slice();
+    	child_ctx[10] = list[i];
+    	child_ctx[16] = i;
+    	return child_ctx;
+    }
+
+    // (58:4) {#each Array(offsetMap.get(a)) as _, b}
+    function create_each_block_2(ctx) {
     	let div;
-    	let t0_value = /*$scheduleTimes*/ ctx[1][/*i*/ ctx[9]] + "";
+
+    	const block = {
+    		c: function create() {
+    			div = element("div");
+    			div.textContent = "-";
+    			attr_dev(div, "class", "box");
+    			add_location(div, file$1, 58, 8, 1838);
+    		},
+    		m: function mount(target, anchor) {
+    			insert_dev(target, div, anchor);
+    		},
+    		p: noop,
+    		d: function destroy(detaching) {
+    			if (detaching) detach_dev(div);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
+    		id: create_each_block_2.name,
+    		type: "each",
+    		source: "(58:4) {#each Array(offsetMap.get(a)) as _, b}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (61:4) {#each Array(daysMap.get(a)) as _, c}
+    function create_each_block_1(ctx) {
+    	let div;
+    	let t0_value = /*$schedule*/ ctx[2][/*c*/ ctx[14] + /*startMap*/ ctx[5][/*a*/ ctx[12]]] + "";
     	let t0;
-    	let t1_value = /*$schedule*/ ctx[2][/*i*/ ctx[9]] + "";
+    	let t1_value = /*$schedule*/ ctx[2][/*c*/ ctx[14] + /*startMap*/ ctx[5][/*a*/ ctx[12]]] + "";
     	let t1;
 
     	const block = {
@@ -1749,7 +1794,7 @@ var app = (function () {
     			t0 = text(t0_value);
     			t1 = text(t1_value);
     			attr_dev(div, "class", "box");
-    			add_location(div, file$1, 33, 4, 1011);
+    			add_location(div, file$1, 61, 8, 1928);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -1757,8 +1802,8 @@ var app = (function () {
     			append_dev(div, t1);
     		},
     		p: function update(ctx, dirty) {
-    			if (dirty & /*$scheduleTimes*/ 2 && t0_value !== (t0_value = /*$scheduleTimes*/ ctx[1][/*i*/ ctx[9]] + "")) set_data_dev(t0, t0_value);
-    			if (dirty & /*$schedule*/ 4 && t1_value !== (t1_value = /*$schedule*/ ctx[2][/*i*/ ctx[9]] + "")) set_data_dev(t1, t1_value);
+    			if (dirty & /*$schedule*/ 4 && t0_value !== (t0_value = /*$schedule*/ ctx[2][/*c*/ ctx[14] + /*startMap*/ ctx[5][/*a*/ ctx[12]]] + "")) set_data_dev(t0, t0_value);
+    			if (dirty & /*$schedule*/ 4 && t1_value !== (t1_value = /*$schedule*/ ctx[2][/*c*/ ctx[14] + /*startMap*/ ctx[5][/*a*/ ctx[12]]] + "")) set_data_dev(t1, t1_value);
     		},
     		d: function destroy(detaching) {
     			if (detaching) detach_dev(div);
@@ -1767,9 +1812,100 @@ var app = (function () {
 
     	dispatch_dev("SvelteRegisterBlock", {
     		block,
+    		id: create_each_block_1.name,
+    		type: "each",
+    		source: "(61:4) {#each Array(daysMap.get(a)) as _, c}",
+    		ctx
+    	});
+
+    	return block;
+    }
+
+    // (57:4) {#each Array(numberOfDays) as _, a}
+    function create_each_block(ctx) {
+    	let t;
+    	let each1_anchor;
+    	let each_value_2 = Array(/*offsetMap*/ ctx[4].get(/*a*/ ctx[12]));
+    	validate_each_argument(each_value_2);
+    	let each_blocks_1 = [];
+
+    	for (let i = 0; i < each_value_2.length; i += 1) {
+    		each_blocks_1[i] = create_each_block_2(get_each_context_2(ctx, each_value_2, i));
+    	}
+
+    	let each_value_1 = Array(/*daysMap*/ ctx[3].get(/*a*/ ctx[12]));
+    	validate_each_argument(each_value_1);
+    	let each_blocks = [];
+
+    	for (let i = 0; i < each_value_1.length; i += 1) {
+    		each_blocks[i] = create_each_block_1(get_each_context_1(ctx, each_value_1, i));
+    	}
+
+    	const block = {
+    		c: function create() {
+    			for (let i = 0; i < each_blocks_1.length; i += 1) {
+    				each_blocks_1[i].c();
+    			}
+
+    			t = space();
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].c();
+    			}
+
+    			each1_anchor = empty();
+    		},
+    		m: function mount(target, anchor) {
+    			for (let i = 0; i < each_blocks_1.length; i += 1) {
+    				each_blocks_1[i].m(target, anchor);
+    			}
+
+    			insert_dev(target, t, anchor);
+
+    			for (let i = 0; i < each_blocks.length; i += 1) {
+    				each_blocks[i].m(target, anchor);
+    			}
+
+    			insert_dev(target, each1_anchor, anchor);
+    		},
+    		p: function update(ctx, dirty) {
+    			if (dirty & /*$schedule, startMap*/ 36) {
+    				each_value_1 = Array(/*daysMap*/ ctx[3].get(/*a*/ ctx[12]));
+    				validate_each_argument(each_value_1);
+    				let i;
+
+    				for (i = 0; i < each_value_1.length; i += 1) {
+    					const child_ctx = get_each_context_1(ctx, each_value_1, i);
+
+    					if (each_blocks[i]) {
+    						each_blocks[i].p(child_ctx, dirty);
+    					} else {
+    						each_blocks[i] = create_each_block_1(child_ctx);
+    						each_blocks[i].c();
+    						each_blocks[i].m(each1_anchor.parentNode, each1_anchor);
+    					}
+    				}
+
+    				for (; i < each_blocks.length; i += 1) {
+    					each_blocks[i].d(1);
+    				}
+
+    				each_blocks.length = each_value_1.length;
+    			}
+    		},
+    		d: function destroy(detaching) {
+    			destroy_each(each_blocks_1, detaching);
+    			if (detaching) detach_dev(t);
+    			destroy_each(each_blocks, detaching);
+    			if (detaching) detach_dev(each1_anchor);
+    		}
+    	};
+
+    	dispatch_dev("SvelteRegisterBlock", {
+    		block,
     		id: create_each_block.name,
     		type: "each",
-    		source: "(33:4) {#each Array($scheduleTimes.length) as _, i}",
+    		source: "(57:4) {#each Array(numberOfDays) as _, a}",
     		ctx
     	});
 
@@ -1777,9 +1913,14 @@ var app = (function () {
     }
 
     function create_fragment$1(ctx) {
+    	let t0;
+    	let t1;
+    	let t2_value = /*offsetMap*/ ctx[4].get(1) + "";
+    	let t2;
+    	let t3;
     	let div;
     	let div_class_value;
-    	let each_value = Array(/*$scheduleTimes*/ ctx[1].length);
+    	let each_value = Array(/*numberOfDays*/ ctx[0]);
     	validate_each_argument(each_value);
     	let each_blocks = [];
 
@@ -1789,19 +1930,27 @@ var app = (function () {
 
     	const block = {
     		c: function create() {
+    			t0 = text(/*numberOfDays*/ ctx[0]);
+    			t1 = space();
+    			t2 = text(t2_value);
+    			t3 = space();
     			div = element("div");
 
     			for (let i = 0; i < each_blocks.length; i += 1) {
     				each_blocks[i].c();
     			}
 
-    			attr_dev(div, "class", div_class_value = "grid overflow-hidden grid-cols-" + /*numberOfDays*/ ctx[0] + " grid-rows-" + /*$scheduleTimes*/ ctx[1].length + " gap-2 w-full h-full");
-    			add_location(div, file$1, 31, 0, 842);
+    			attr_dev(div, "class", div_class_value = "grid overflow-hidden grid-cols-" + /*numberOfDays*/ ctx[0] + " grid-rows-" + /*maxDayLength*/ ctx[1] + " gap-2 w-full h-full");
+    			add_location(div, file$1, 55, 0, 1638);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
     		},
     		m: function mount(target, anchor) {
+    			insert_dev(target, t0, anchor);
+    			insert_dev(target, t1, anchor);
+    			insert_dev(target, t2, anchor);
+    			insert_dev(target, t3, anchor);
     			insert_dev(target, div, anchor);
 
     			for (let i = 0; i < each_blocks.length; i += 1) {
@@ -1809,8 +1958,10 @@ var app = (function () {
     			}
     		},
     		p: function update(ctx, [dirty]) {
-    			if (dirty & /*$schedule, $scheduleTimes*/ 6) {
-    				each_value = Array(/*$scheduleTimes*/ ctx[1].length);
+    			if (dirty & /*numberOfDays*/ 1) set_data_dev(t0, /*numberOfDays*/ ctx[0]);
+
+    			if (dirty & /*Array, daysMap, $schedule, startMap, offsetMap, numberOfDays*/ 61) {
+    				each_value = Array(/*numberOfDays*/ ctx[0]);
     				validate_each_argument(each_value);
     				let i;
 
@@ -1833,13 +1984,17 @@ var app = (function () {
     				each_blocks.length = each_value.length;
     			}
 
-    			if (dirty & /*numberOfDays, $scheduleTimes*/ 3 && div_class_value !== (div_class_value = "grid overflow-hidden grid-cols-" + /*numberOfDays*/ ctx[0] + " grid-rows-" + /*$scheduleTimes*/ ctx[1].length + " gap-2 w-full h-full")) {
+    			if (dirty & /*numberOfDays, maxDayLength*/ 3 && div_class_value !== (div_class_value = "grid overflow-hidden grid-cols-" + /*numberOfDays*/ ctx[0] + " grid-rows-" + /*maxDayLength*/ ctx[1] + " gap-2 w-full h-full")) {
     				attr_dev(div, "class", div_class_value);
     			}
     		},
     		i: noop,
     		o: noop,
     		d: function destroy(detaching) {
+    			if (detaching) detach_dev(t0);
+    			if (detaching) detach_dev(t1);
+    			if (detaching) detach_dev(t2);
+    			if (detaching) detach_dev(t3);
     			if (detaching) detach_dev(div);
     			destroy_each(each_blocks, detaching);
     		}
@@ -1857,10 +2012,13 @@ var app = (function () {
     }
 
     function instance$1($$self, $$props, $$invalidate) {
+    	let $festival;
     	let $scheduleTimes;
     	let $schedule;
+    	validate_store(festival, 'festival');
+    	component_subscribe($$self, festival, $$value => $$invalidate(8, $festival = $$value));
     	validate_store(scheduleTimes, 'scheduleTimes');
-    	component_subscribe($$self, scheduleTimes, $$value => $$invalidate(1, $scheduleTimes = $$value));
+    	component_subscribe($$self, scheduleTimes, $$value => $$invalidate(9, $scheduleTimes = $$value));
     	validate_store(schedule, 'schedule');
     	component_subscribe($$self, schedule, $$value => $$invalidate(2, $schedule = $$value));
     	let { $$slots: slots = {}, $$scope } = $$props;
@@ -1870,6 +2028,8 @@ var app = (function () {
     	let maxDayLength = 1;
     	let maxDay = 1;
     	let offsetMap = new Map();
+    	let startMap = new Map();
+    	let { dataArray = JSON.parse(JSON.stringify(data$1)) } = $$props;
 
     	for (let u = 1; u < 11; u++) {
     		for (let w = 0; w < $scheduleTimes.length; w++) {
@@ -1892,43 +2052,74 @@ var app = (function () {
     		if (daysMap.get(u) !== null) ;
     	}
 
-    	const writable_props = [];
+    	for (let u = 1; u <= numberOfDays; u++) {
+    		let first = true;
+    		let count = 0;
+
+    		for (let i = 0; i < $scheduleTimes.length; i++) {
+    			if ($scheduleTimes[i].includes("[" + u + "]")) {
+    				count++;
+
+    				if ($scheduleTimes[i].replace("[" + u + "]", "") === dataArray["Festivals"][$festival.replace(/\s/g, '')]["StartTime"]) {
+    					offsetMap.set(u, count);
+    				}
+
+    				if (first) {
+    					startMap.set(u, i);
+    					first = false;
+    				}
+    			}
+    		}
+    	}
+
+    	const writable_props = ['dataArray'];
 
     	Object.keys($$props).forEach(key => {
     		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== '$$' && key !== 'slot') console.warn(`<Results> was created with unknown prop '${key}'`);
     	});
 
+    	$$self.$$set = $$props => {
+    		if ('dataArray' in $$props) $$invalidate(6, dataArray = $$props.dataArray);
+    	};
+
     	$$self.$capture_state = () => ({
     		schedule,
     		scheduleTimes,
     		page,
+    		festival,
+    		data: data$1,
     		numberOfDays,
     		daysMap,
     		maxDayLength,
     		maxDay,
     		offsetMap,
+    		startMap,
+    		dataArray,
+    		$festival,
     		$scheduleTimes,
     		$schedule
     	});
 
     	$$self.$inject_state = $$props => {
     		if ('numberOfDays' in $$props) $$invalidate(0, numberOfDays = $$props.numberOfDays);
-    		if ('maxDayLength' in $$props) maxDayLength = $$props.maxDayLength;
+    		if ('maxDayLength' in $$props) $$invalidate(1, maxDayLength = $$props.maxDayLength);
     		if ('maxDay' in $$props) maxDay = $$props.maxDay;
-    		if ('offsetMap' in $$props) offsetMap = $$props.offsetMap;
+    		if ('offsetMap' in $$props) $$invalidate(4, offsetMap = $$props.offsetMap);
+    		if ('startMap' in $$props) $$invalidate(5, startMap = $$props.startMap);
+    		if ('dataArray' in $$props) $$invalidate(6, dataArray = $$props.dataArray);
     	};
 
     	if ($$props && "$$inject" in $$props) {
     		$$self.$inject_state($$props.$$inject);
     	}
 
-    	return [numberOfDays, $scheduleTimes, $schedule];
+    	return [numberOfDays, maxDayLength, $schedule, daysMap, offsetMap, startMap, dataArray];
     }
 
     class Results extends SvelteComponentDev {
     	constructor(options) {
     		super(options);
-    		init(this, options, instance$1, create_fragment$1, safe_not_equal, {});
+    		init(this, options, instance$1, create_fragment$1, safe_not_equal, { dataArray: 6 });
 
     		dispatch_dev("SvelteRegisterComponent", {
     			component: this,
@@ -1936,6 +2127,14 @@ var app = (function () {
     			options,
     			id: create_fragment$1.name
     		});
+    	}
+
+    	get dataArray() {
+    		throw new Error("<Results>: Props cannot be read directly from the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
+    	}
+
+    	set dataArray(value) {
+    		throw new Error("<Results>: Props cannot be set directly on the component instance unless compiling with 'accessors: true' or '<svelte:options accessors/>'");
     	}
     }
 

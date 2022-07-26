@@ -1138,7 +1138,8 @@
           "Diplo",
           "SaidTheSky"
         ]
-      ]
+      ],
+      "StartTime": "7:00pm"
     },
       "ElectricZoo": {
         "Schedule": [
@@ -1926,7 +1927,8 @@
             "Ghastly",
             "DukeDumont"
           ]
-        ]
+        ],
+        "StartTime": "1:00pm"
       }
     }
   }
